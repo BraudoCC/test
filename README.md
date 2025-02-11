@@ -46,8 +46,6 @@ We first summarize and further categorize existing WSAD algorithms into three ca
 | ConsisGAD | [ref]() | ICLR'24 | GNN| Graph| Data Augmentation | [√](https://github.com/Xtra-Computing/ConsisGAD) |
 | GenGA  | [ref]()  | KDD'24  | GCN| Graph| Data Augmentation | ×  |
 ||||Inexact Supervision||||
-| Name| Reference| Year | Model | Domain  | Method | Link  |
-|--------------------|-------------------------------------------------------------|---------|----------------|---------------|--------------------------------|----------------------------------------------|
 | Sultani et al. | [ref](https://ieeexplore.ieee.org/document/8578776)| CVPR'18 | MLP| Video| Multiple Instance Learning | [√](https://github.com/vantage-vision-vv/Anomaly-Detection-in-Surveillance-Videos) |
 | TCN-IBL| [ref](https://ieeexplore.ieee.org/document/8803657)| ICIP'19 | CNN| Video| Multiple Instance Learning | ×  |
 | AR-Net | [ref](https://ieeexplore.ieee.org/document/9102722)| ICME'20 | MLP| Video| Multiple Instance Learning | [√](https://github.com/wanboyang/Anomaly_AR_Net_ICME_2020) |
