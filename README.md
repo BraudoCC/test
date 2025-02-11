@@ -35,7 +35,7 @@ We first summarize and further categorize existing WSAD algorithms into three ca
 | AAD | [ref](https://ieeexplore.ieee.org/document/7837915)  | ICDM'16 | -  | Tabular | Active learning| [√](https://github.com/shubhomoydas/pyaad)  |
 | SLA-VAE| [ref](https://dl.acm.org/doi/abs/10.1145/3485447.3511984)  | WWW'22  | VAE| Time series| Active learning| ×  |
 | EAL-GAN| [ref]()  | TPAMI'23 | GAN| Tabular | Active learning| [√](https://github.com/smallcube/EAL-GAN)|
-| SOEL| [ref]() | ICML'23 | CNN| Image/Tabular/Video | Active learning  | [√](https://github.com/aodongli/Active-SOEL) |
+| SOEL| [ref]() | ICML'23 | CNN| Tabular/Image | Active learning  | [√](https://github.com/aodongli/Active-SOEL) |
 | Meta-AAD  | [ref](https://ieeexplore.ieee.org/document/9338270)  | ICDM'20 | MLP| Tabular | Reinforcement learning  | [√](https://github.com/daochenzha/Meta-AAD) |
 | DPLAN  | [ref](https://dl.acm.org/doi/10.1145/3447548.3467417)| KDD'21  | MLP| Tabular | Reinforcement learning  | ×  |
 | RobustTAD | [ref]()  | KDDW'20 | U-Net | Time series| Data Augmentation | ×  |
